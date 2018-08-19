@@ -1,2 +1,2 @@
-*.options	text
+*.options	binary
 *.save	binary
