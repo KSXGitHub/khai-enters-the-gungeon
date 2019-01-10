@@ -54,7 +54,7 @@ version: 0
     "m_preferredScalingMode": "UNIFORM_SCALING",
     "m_preferredFullscreenMode": "FULLSCREEN",
     "PreferredMapZoom": 6.99999856948853,
-    "PreferredMinimapZoom": 1.20000004768372,
+    "PreferredMinimapZoom": 0.800000071525574,
     "m_minimapDisplayMode": "ALWAYS",
     "m_audioHardware": "SPEAKERS",
     "m_musicVolume": 80.0,
