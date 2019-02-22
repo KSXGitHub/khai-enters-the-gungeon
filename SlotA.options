@@ -53,7 +53,7 @@ version: 0
     "m_playerTwoControllerCursor": false,
     "m_preferredScalingMode": "UNIFORM_SCALING",
     "m_preferredFullscreenMode": "FULLSCREEN",
-    "PreferredMapZoom": 7.79999780654907,
+    "PreferredMapZoom": 9.0,
     "PreferredMinimapZoom": 0.800000071525574,
     "m_minimapDisplayMode": "ALWAYS",
     "m_audioHardware": "SPEAKERS",
