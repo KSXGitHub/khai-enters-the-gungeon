@@ -8,7 +8,6 @@ version: 0
     "PreferredQuickstartCharacter": "LAST_USED",
     "LastPlayedCharacter": "Guide",
     "CurrentGameLootProfile": "CURRENT",
-    "CurrentGameplaySpeed": "NORMAL",
     "IncreaseSpeedOutOfCombat": true,
     "m_fullscreenStyle": "FULLSCREEN",
     "m_currentCursorIndex": 0,
