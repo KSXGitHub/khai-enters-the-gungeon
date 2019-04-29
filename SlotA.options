@@ -6,7 +6,7 @@ version: 0
     "additionalBlankControl": "BOTH_STICKS_DOWN",
     "additionalBlankControlTwo": "BOTH_STICKS_DOWN",
     "PreferredQuickstartCharacter": "LAST_USED",
-    "LastPlayedCharacter": "Robot",
+    "LastPlayedCharacter": "Bullet",
     "CurrentGameLootProfile": "CURRENT",
     "IncreaseSpeedOutOfCombat": true,
     "m_fullscreenStyle": "FULLSCREEN",
